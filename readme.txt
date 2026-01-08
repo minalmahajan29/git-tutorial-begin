@@ -1,7 +1,9 @@
-#This is the best repository out there
+This is the best repository out there
 
 The best ways are:
 -Eat
--sleep 
+-Sleep 
 -Code
--Repeat 
+-Repeat
+
+THANK YOU
